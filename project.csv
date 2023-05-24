@@ -1,0 +1,129 @@
+Sample,Group,PL,Strain,Collection date,Location,host,Host sample
+SAMEA111483639,ASFV,Illumina,BA71V,2022,Spain,Sus scrofa,not applicable
+SAMEA6596116,ASFV,Illumina,not applicable,2020,Spain,not applicable,not applicable
+SAMEA6813268,ASFV,Illumina,Arm/07/CBM,2020,Spain,not applicable,not applicable
+SAMEA7232591,ASFV,Illumina,Arm/07/CBM,2020,Spain,not applicable,not applicable
+SAMEA7232592,ASFV,Illumina,Arm/07/CBM,2020,Spain,not applicable,not applicable
+SAMEA7232593,ASFV,Illumina,Arm/07/CBM,2020,Spain,not applicable,not applicable
+SAMEA7232834,ASFV,ONT,Arm/07/CBM,2020,Spain,not applicable,not applicable
+SAMN13191036,ASFV,ONT,Liv13/33,2017,France,Ornithodoros moubata,Whole stick
+SAMN13191038,ASFV,ONT,Liv13/33,2017,France,Ornithodoros moubata,Whole stick
+SAMN13191039,ASFV,ONT,Liv13/33,2017,France,Ornithodoros moubata,Whole stick
+SAMN13191040,ASFV,ONT,Liv13/33,2017,France,Ornithodoros moubata,Whole stick
+SAMN13191042,ASFV,ONT,Liv13/33,2017,France,Ornithodoros moubata,Whole stick
+SAMN13191216,ASFV,ONT,Liv13/33,2017,France,Specific Pathogen Free pig,Blood
+SAMN13194022,ASFV,ONT,Liv13/33,2017,France,Specific Pathogen Free pig,Blood
+SAMN13195022,ASFV,ONT,Liv13/33,2017,France,Specific Pathogen Free pig,Blood
+SAMN13195023,ASFV,ONT,Liv13/33,2017,France,Specific Pathogen Free pig,Blood
+SAMN13195024,ASFV,ONT,Liv13/33,2017,France,Specific Pathogen Free pig,Blood
+SAMN13195025,ASFV,ONT,Liv13/33,2017,France,Specific Pathogen Free pig,Blood
+SAMN13195543,ASFV,Illumina,not applicable,1977,Zaire,Sus scrofa,not applicable
+SAMN13195580,ASFV,Illumina,not applicable,1999,South Africa,Warthog,not applicable
+SAMN13195741,ASFV,Illumina,not applicable,2004,South Africa,Wild boar,not applicable
+SAMN18055832,ASFV,Illumina,NU1984 WB,2018,Italy,Sus scrofa,Spleen
+SAMN18312883,ASFV,Illumina,11484,2014,Italy,Sus scrofa,Spleen
+SAMN18312884,ASFV,Illumina,NU90_2,1990,Italy,Sus scrofa domesticus,Spleen
+SAMN18312885,ASFV,Illumina,8343,2018,Italy,Sus scrofa domesticus,Spleen
+SAMN18312887,ASFV,Illumina,52060,2017,Italy,Sus scrofa domesticus,Spleen
+SAMN18312888,ASFV,Illumina,Italy83,1983,Italy,Sus scrofa domesticus,Spleen
+SAMN18312889,ASFV,Illumina,NU81_2,1981,Italy,Sus scrofa domesticus,Spleen
+SAMN18312890,ASFV,Illumina,NU91_9,1991,Italy,Sus scrofa domesticus,Spleen
+SAMN18312891,ASFV,Illumina,28170,2005,Italy,Sus scrofa domesticus,Spleen
+SAMN18312892,ASFV,Illumina,3312,2017,Italy,Sus scrofa domesticus,Spleen
+SAMN18312893,ASFV,Illumina,45539,2004,Italy,Sus scrofa domesticus,Spleen
+SAMN18868101,ASFV,Illumina,ASFV/Timor-Leste/2019/1,2019,Timor-Leste,Sus scrofa domesticus,Bone marrow inoculation
+SAMN18868101,ASFV,ONT,ASFV/Timor-Leste/2019/1,2019,Timor-Leste,Sus scrofa domesticus,Bone marrow inoculation
+SAMN19277828,ASFV,Illumina,1628,2009,Italy,Sus scrofa domesticus,Spleen
+SAMN20286616,ASFV,Illumina,LO2081,2018,Italy,Sus scrofa domesticus,Spleen
+SAMN22028789,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028789,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028790,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028791,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028791,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028792,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028792,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028793,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028793,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028794,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028794,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028795,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028795,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028796,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028796,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028797,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028797,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028798,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028799,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028800,ASFV,Illumina,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028800,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028801,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028802,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028803,ASFV,ONT,DR2025,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028804,ASFV,ONT,DR2025,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028806,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028807,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028808,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028809,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028810,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028811,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028812,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028813,ASFV,ONT,DR2022,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028814,ASFV,ONT,DR2023,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028815,ASFV,ONT,DR2024,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN22028816,ASFV,ONT,DR2025,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313864,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313865,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313866,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313867,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313868,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313869,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313870,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313871,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313872,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313873,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313874,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN23313875,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN24019814,ASFV,Illumina,not applicable,2021,not applicable,not applicable,not applicable
+SAMN28920880,ASFV,MGI,II,2021,China,Porcine,Blood
+SAMN28928760,ASFV,MGI,II,2021,China,Sus scrofa,PAMs
+SAMN28980106,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980107,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980108,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980109,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980110,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980111,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980112,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980113,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980114,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980115,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980116,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980117,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980118,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980119,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980120,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980121,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980122,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980123,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980124,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980125,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980126,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980127,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980128,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980129,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980130,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980131,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980132,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980133,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980134,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980135,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN28980136,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN29625806,ASFV,ONT,A4,2021,Philippines,Sus scrofa,not applicable
+SAMN29762774,ASFV,Illumina,DR-1980,1980,Dominican Republic,Sus scrofa,Blood
+SAMN29762774,ASFV,ONT,DR-1980,1980,Dominican Republic,Sus scrofa,Blood
+SAMN29855984,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN29855985,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN29855986,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN29855987,ASFV,ONT,DR2021,2021,Dominican Republic,Sus scrofa,not applicable
+SAMN30175277,ASFV,Illumina,not applicable,2021,India,Sus scrofa,not applicable
+SAMN30491548,ASFV,Illumina,II,2021,India,Sus scrofa,Pooled tissues
+SAMN32759818,ASFV,Illumina,SS-3,2019,Mongolia,Backyard pig,Spleen
